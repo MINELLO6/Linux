@@ -104,7 +104,6 @@
 
 - 找到正在打开该文件的程序，并退出
 - 直接删除swp文件即可
-![111](https://github.com/MINELLO6/Linux/blob/main/Acwing/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E7%9A%84%E6%95%B0%E5%80%BC%E8%A7%A3.png)
 
 
 
