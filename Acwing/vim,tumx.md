@@ -104,5 +104,4 @@
 
 - 找到正在打开该文件的程序，并退出
 - 直接删除swp文件即可
-![1](https://github.com/MINELLO6/Linux/blob/main/Acwing/NLDC5.png)
 
